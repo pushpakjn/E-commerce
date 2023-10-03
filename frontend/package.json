@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "http://localhost:5000",
+  "proxy": "https://blue-violet-bullfrog-cuff.cyclic.cloud",
   "private": true,
   "dependencies": {
     "@paypal/react-paypal-js": "^8.1.3",
